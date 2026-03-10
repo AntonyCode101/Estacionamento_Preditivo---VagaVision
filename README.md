@@ -1,64 +1,46 @@
-# 🛰️ VagaVision
-
+# 🚘 VagaVision
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Projeto-Acad%C3%AAmico%20%2F%20Empresarial-blue?style=for-the-badge" alt="Tipo de Projeto">
 </p>
 
-> **Solução de Estacionamento Preditivo | Inteligência e Gestão de Vagas**
+> **Projeto de Estacionamento Preditivo e Gestão de Tráfego Urbano**
 
-O **VagaVision** é um projeto de inovação tecnológica focado em transformar a gestão de estacionamentos através de modelos preditivos. Desenvolvido como parte do currículo acadêmico em colaboração direta com a **Dsin**, o sistema busca unir eficiência operacional e uma experiência de usuário simplificada.
-
----
-
-## 🤝 Parceria Estratégica
-Este projeto está sendo desenvolvido sob o modelo de colaboração **Academia-Empresa**, contando com o suporte técnico e visão de mercado da **Dsin**.
-
-* **Instituição:** [Nome da sua Faculdade]
-* **Parceira Tecnológica:** [Dsin](https://www.dsin.com.br/)
-* **Objetivo:** Solucionar problemas reais de fluxo e disponibilidade de vagas urbanas.
+O **VagaVision** é um projeto de inovação tecnologica proposto como solução aos desafios apresentados pela empresa parceira  
+**[Dsin](https://www.dsin.com.br/)**, Nosso projeto consiste em informar aos usuarios os melhores horários e localidades para estacionarem seus veiculos, assim melhorando o cotidiano dos usuarios e o trafego urbano. 
 
 ---
 
-## 🔭 Visão do Projeto
+## 🛠 Stack
 
-O objetivo principal do VagaVision é eliminar a incerteza no momento de estacionar. Através de dados históricos e em tempo real, o sistema será capaz de:
-* **Prever Disponibilidade:** Antecipar o status das vagas em diferentes períodos do dia.
-* **Otimizar Fluxo:** Reduzir o tempo de busca por vagas, diminuindo o tráfego interno.
-* **Gestão de Dados:** Fornecer dashboards estratégicos para a administração do local.
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Framework Web** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) |
+| **Banco de Dados** | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />|
+| **Backend** | <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  /> <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />|
 
----
 
-## 🛠️ Stack Tecnológica (Em Definição)
 
-O projeto está em fase de arquitetura. Atualmente, os seguintes pilares estão sendo avaliados para garantir escalabilidade e performance:
-
-- [ ] **Interface:** Foco em UX moderna e responsividade.
-- [ ] **Backend:** Arquitetura robusta para processamento de dados preditivos.
-- [ ] **Inteligência:** Modelos de análise de dados para predição de ocupação.
-- [ ] **Hardware/IoT:** Integração com sensores para captura de estado em tempo real.
-
----
-
-## 🎯 Diferenciais
-* **Preditividade:** Não apenas mostra onde há vagas, mas onde haverá.
-* **Escalabilidade:** Pronto para ser implementado em pequenos prédios ou grandes complexos.
-* **Colaboração:** Validado por profissionais do mercado de tecnologia.
-
----
 
 ## 🏗️ Estrutura do Repositório
 * `/docs`: Documentação do projeto e levantamento de requisitos.
 * `/research`: Pesquisas sobre modelos preditivos e tecnologias candidatas.
 * `/prototype`: Primeiros esboços e provas de conceito (PoC).
 
----
+
 
 ## 👥 Contribuição e Desenvolvimento
 Desenvolvido como projeto acadêmico por:
-* **Seu Nome** - *Desenvolvedor* - [GitHub](https://github.com/seu-usuario)
-
+* **Ana Julia Chiezi** - *Desenvolvedor* - [GitHub](https://github.com/seu-usuario)
+* **Antony Miguel Nogueira Pereira** - *Desenvolvedor* - [GitHub](https://github.com/AntonyCode101)
+* **Camila Pereira Mattos da Rocha** - *Desenvolvedor* - [GitHub](https://github.com/seu-usuario)
+* **Rafael Willian Braga Alves** - *Desenvolvedor* - [GitHub](https://github.com/seu-usuario)
+* **Vinicius Caires Viel** - *Desenvolvedor* - [GitHub](https://github.com/seu-usuario)
+* **Vinicius Silva Mita Mayer** - *Desenvolvedor* - [GitHub](https://github.com/seu-usuario)
+* **Vitor Hugo Amorim da Silva Carvalho** - *Desenvolvedor* - [GitHub](https://github.com/seu-usuario)
+  
 ---
 <p align="center">
-  📅 2026 | Projeto em colaboração com <b>Dsin</b>
+  📅 2026 | Projeto Acadêmico <b>UNIMAR</b> em colaboração com <b>Dsin</b>
 </p>
