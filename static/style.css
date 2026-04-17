@@ -4,6 +4,17 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+<<<<<<< HEAD
+=======
+.topo {
+    background-color: #CC0000;
+    color: rgb(231, 231, 231);
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+>>>>>>> a346b30815086666df4e438da296629e1e509376
 a {
     text-decoration: none;
     color: white;
@@ -52,6 +63,10 @@ main {
     border-radius: 15px;
     height: 50px;
     width: 500px;
+<<<<<<< HEAD
+=======
+    border: none;
+>>>>>>> a346b30815086666df4e438da296629e1e509376
 }
 
 .btn {
@@ -69,6 +84,7 @@ main {
 
 .btnsecondary {
     color: #0e0d0d;
+<<<<<<< HEAD
     font-size: 17px;
 }
 
@@ -87,6 +103,14 @@ main {
 body {
     background-image: url('../img/fundo.png');
     background-position: center;
+=======
+    font-size: 15px;
+}
+
+
+body {
+    background-color: white;
+>>>>>>> a346b30815086666df4e438da296629e1e509376
 }
 
 html, body, #map {
