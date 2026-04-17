@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    margin-left: 15px;
+    margin: 15px;
+}
+
+main {
+    padding: 0;
+    margin: 0;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo {
+    margin: 100px;
+    background-color: #F2F2F2;
+    color: #0e0d0d;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px #0e0d0d;
+    width: 600px;
+    height: 700px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+
+.conteudo label {
+    margin: 10px;
+    font-size:   20px;
+    color:  #0e0d0d;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.conteudo input {
+    margin: auto;
+    padding: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 15px;
+    height: 50px;
+    width: 500px;
+}
+
+.btn {
+    background-color: #CC0000;
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    height: 50px;
+    width: 120px;
+}
+
+.btnsecondary {
+    color: #0e0d0d;
+    font-size: 17px;
+}
+
+.btnHome {
+    padding: 40px;
+    width: 100px;
+    background-color: #CC0000;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-image: url('../img/fundo.png');
+    background-position: center;
+}
+
+html, body, #map {
+    height: 100%;
+    width: 100vw;
+}

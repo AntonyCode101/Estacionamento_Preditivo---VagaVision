@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../static/style.css">
+    <title>Login</title>
+    <style>
+        .conteudo, p {
+            padding: 30px;
+            font-size: 25px;
+        }
+    </style>
+</head>
+<body>
+    <!--{% include "sweetalerts.html" %}  #não sei oq é -->
+    <main>
+        <div class="conteudo">
+            <h1>Login</h1>
+            <form action="" method="post">
+                    <label for="emailForm">E-mail</label>
+                    <input type="email" id="emailForm" name="emailForm" placeholder="E-mail">
+                    <label for="senhaForm">Senha</label>
+                    <input type="password" id="senhaForm" name="senhaForm" placeholder="Senha">
+
+                    <div class="actions">
+                        <button type="submit" href="/paginaprincipal" class="btn">Entrar</button>
+                        <a href="/cadastro" class="btnsecondary">Cadastrar-se</a>
+                    </div>
+                </form>
+        </div>
+    </main>
+</body>
+</html>

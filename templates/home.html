@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="../static/style.css">
+    <title>Home</title>
+    <style>
+        .conteudo, p {
+            padding: 30px;
+            font-size: 40px;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <div class="conteudo"
+            {% include "sweetalerts.html" %}
+            <p>VAGAVISION</p>
+            <a href="/login" class="btnHome">Login</a>
+            <a href="/cadastro" class="btnHome">Cadasto</a>
+        </div>
+    </main>
+</body>
+</html>
